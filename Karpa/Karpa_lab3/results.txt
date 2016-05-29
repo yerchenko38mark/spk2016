@@ -1,0 +1,314 @@
+the number of cities 10
+population	20
+ans =
+    10     9
+     4    19
+     5    11
+    13    18
+    19    10
+     9     4
+    10    10
+    12    19
+    19    14
+    18     5
+Optimization terminated: average change in the fitness value less than options.TolFun.
+x = [1x10 double]
+fval = 62.0033
+reason = 1
+output = 
+    problemtype: 'unconstrained'
+       rngstate: [1x1 struct]
+    generations: 52
+      funccount: 1060
+        message: [1x86 char]
+time = 0         0         0         0         0   -1.3630
+%------------------%
+the number of cities 10
+population 50
+ans =
+     4    13
+    20    12
+     6     6
+    11     9
+    20    19
+     4    13
+     5     6
+     7     8
+    13     1
+    16    20
+Optimization terminated: average change in the fitness value less than options.TolFun.
+x = [1x10 double]
+fval = 60.7304
+reason = 1
+output = 
+    problemtype: 'unconstrained'
+       rngstate: [1x1 struct]
+    generations: 51
+      funccount: 2600
+        message: [1x86 char]
+time = 0         0         0         0         0   -1.5890
+%------------------%
+the number of cities 10
+population 100
+ans =
+    15     7
+    19    17
+    20     5
+    10     4
+     6     3
+    10    15
+    18     9
+    20     1
+     2    11
+     0     3
+Optimization terminated: average change in the fitness value less than options.TolFun.
+x = [1x10 double]
+fval = 66.7087
+reason = 1
+output = 
+    problemtype: 'unconstrained'
+       rngstate: [1x1 struct]
+    generations: 51
+      funccount: 5200
+        message: [1x86 char]
+time = 0         0         0         0         0   -1.8150
+%------------------%
+the number of cities 20
+population	20
+ans =
+    16    15
+    14    19
+     2    15
+     4     1
+    20     7
+     3     6
+     4     9
+    20     3
+     7    17
+    16     3
+    11    11
+     2    13
+     9    13
+     7     6
+    18    15
+     9     9
+     8    15
+    20    20
+    16     0
+     5     3
+Optimization terminated: average change in the fitness value less than options.TolFun.
+x = [1x20 double]
+fval = 119.7892
+reason = 1
+output = 
+    problemtype: 'unconstrained'
+       rngstate: [1x1 struct]
+    generations: 51
+      funccount: 1040
+        message: [1x86 char]
+time = 0         0         0         0         0   -1.3830
+%------------------%
+the number of cities 20
+population 50
+ans =
+     6    13
+     9    16
+     1     2
+     4     5
+     0    20
+     1     6
+     8     9
+    11    16
+    18    16
+     8    16
+    18     7
+    14     2
+     8     2
+    10    14
+    10     5
+    11    15
+    11    17
+     9    13
+     0     1
+    13    12
+Optimization terminated: average change in the fitness value less than options.TolFun.
+x = [1x20 double]
+fval = 105.1756
+reason = 1
+output = 
+    problemtype: 'unconstrained'
+       rngstate: [1x1 struct]
+    generations: 59
+      funccount: 3000
+        message: [1x86 char]
+time = 0         0         0         0         0   -1.8070
+%------------------%
+the number of cities 20
+population 100
+ans =
+     8    17
+     9    14
+     9     4
+    12     9
+    17     4
+    13    10
+    19     4
+    12    18
+    17    18
+     4    18
+     5     4
+    17     3
+     5    10
+     9    20
+     5    14
+     8    12
+     7     6
+     6    15
+     9    17
+     2     9
+Optimization terminated: average change in the fitness value less than options.TolFun.
+x = [1x20 double]
+fval = 80.5669
+reason = 1
+output = 
+    problemtype: 'unconstrained'
+       rngstate: [1x1 struct]
+    generations: 57
+      funccount: 5800
+        message: [1x86 char]
+time = 0         0         0         0         0   -2.0780
+%------------------%
+the number of cities 30
+population	20
+ans =
+    10     3
+     0     1
+    12     5
+     8     1
+     5    15
+    11     3
+    11     2
+     2     0
+     6    18
+    19     4
+    19    13
+    20    13
+    20    11
+     8     7
+     5    13
+    13    16
+     6     3
+     9     7
+    16    19
+    12     4
+    13     0
+    10    16
+     0    18
+     6     3
+     5     5
+    15     4
+    10    10
+    10    14
+     5    16
+    12     0
+Optimization terminated: average change in the fitness value less than options.TolFun.
+x = [1x30 double]
+fval = 150.3561
+reason = 1
+output = 
+    problemtype: 'unconstrained'
+       rngstate: [1x1 struct]
+    generations: 87
+      funccount: 1760
+        message: [1x86 char]
+time = 0         0         0         0         0   -2.3650
+%------------------%
+the number of cities 30
+population 50
+ans =
+    11     5
+    11    19
+     8    18
+    18    20
+     3     5
+     9     4
+     2     9
+    15     5
+     4    11
+    12     9
+     9     1
+    10     2
+     7     0
+    20     5
+    14    13
+    19    19
+    20     6
+    14    18
+    20     0
+    15     8
+     7     2
+    14    11
+    11    17
+    12    15
+    16    20
+     1    18
+    12    13
+     3    19
+     2     1
+     3     9
+Optimization terminated: average change in the fitness value less than options.TolFun.
+x = [1x30 double]
+fval = 142.7854
+reason = 1
+output = 
+    problemtype: 'unconstrained'
+       rngstate: [1x1 struct]
+    generations: 90
+      funccount: 4550
+        message: [1x86 char]
+time = 0         0         0         0         0   -2.7290
+%------------------%
+the number of cities 30
+population 100
+ans =
+    16     0
+     6    19
+    16     7
+    12    18
+    20     9
+    18     9
+    15    12
+    10    15
+     9    10
+    19     6
+    16     2
+    14     3
+    16    14
+     5     2
+     2    19
+    15    13
+    13     1
+    14     3
+     6     3
+     2     9
+     2     6
+    10     3
+     3    12
+    12    17
+     5    13
+    13     0
+    13    15
+     6     2
+    16    10
+     6    20
+Optimization terminated: average change in the fitness value less than options.TolFun.
+x = [1x30 double]
+fval = 115.4527
+reason = 1
+output = 
+    problemtype: 'unconstrained'
+       rngstate: [1x1 struct]
+    generations: 85
+      funccount: 8600
+        message: [1x86 char]
+time = 0         0         0         0         0   -3.0410
