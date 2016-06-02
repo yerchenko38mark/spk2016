@@ -1,0 +1,6 @@
+function y = f4( x )
+y = x^2*cos(x/2);
+end
+
+
+
