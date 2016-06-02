@@ -1,1 +1,0 @@
-Maria Andrusiv - Variant 1.
