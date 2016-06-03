@@ -1,0 +1,1 @@
+Semkiv Ihor 12
